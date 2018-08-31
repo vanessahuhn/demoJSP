@@ -10,9 +10,9 @@ try {
 		
 		Class.forName("com.mysql.jdbc.Driver");
 		
-		String url = "jdbc:mysql://localhost:3306/userdetails";
+		String url = "jdbc:mysql://localhost:3306/formulaire";
 		String user = "root";
-		String pwd= "rootpwd";
+		String pwd= "Password29";
 		
 		Connection con=DriverManager.getConnection(url, user, pwd);
 		

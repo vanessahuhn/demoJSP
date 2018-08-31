@@ -13,7 +13,7 @@
 <marquee dir="ltr"><font style="color: navy;">........</font></marquee>
 
 <form action="contactSave.jsp">
-				
+                
 <table><tr> <td>Name:</td><td><input type="text" name="name"></td></tr>
 <tr> <td>Email:</td><td><input type="text" name="email"></td></tr>
 <tr> <td>Phone:</td><td><input type="text" name="phone"></td></tr>
@@ -21,11 +21,11 @@
 
 <tr><td><input type="submit" value="Submit"></td></tr>
 </table>
-				
+                
 </form>
 
      <div id="newsletter">
-			        
+                    
                 <p><a href=#>Click here for details</a></p>
                 </div>
                 <div id="events">
@@ -44,6 +44,12 @@
             <jsp:include page="footer.html"></jsp:include>
             
              <HR>
+
+
+
+
+
+
 
 </body>
 </html>

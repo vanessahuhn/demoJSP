@@ -10,7 +10,7 @@
 
 Bienvenue sur cette application web.
 
-<CENTER><IMG SRC="images/application.png" width="200" height="150" ALIGN="BOTTOM"> </CENTER>
+<CENTER><IMG SRC="Images/Moi.jpg" width="200" height="150" ALIGN="BOTTOM"> </CENTER>
 
 <div id="nav">
             <ul>
@@ -36,15 +36,15 @@ support@yourcompany.com</a>.
 
    <form action="registerSave.jsp">
     
-    	<table><tr> <td>Name:</td><td><input type="text" name="username"></td></tr>
-		<tr> <td>Password:</td><td><input type="password" name="password"></td></tr>
-		<tr> <td>Email:</td><td><input type="text" name="email"></td></tr>
-		<tr> <td> Language: </td><td><select name="language">
+        <table><tr> <td>Name:</td><td><input type="text" name="username"></td></tr>
+        <tr> <td>Password:</td><td><input type="password" name="password"></td></tr>
+        <tr> <td>Email:</td><td><input type="text" name="email"></td></tr>
+        <tr> <td> Language: </td><td><select name="language">
             <option>English</option>
             <option>French</option>
         </select> <br/></td></tr>
-		<tr><td><input type="submit" value="Submit"></td></tr>
-		</table>
+        <tr><td><input type="submit" value="Submit"></td></tr>
+        </table>
     
     </form>
 
